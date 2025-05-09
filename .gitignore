@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+model.pt
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Training output folders
+runs/
+outputs/
+testtt/
+Train/
+dataset/
+
+# Model weights
+
