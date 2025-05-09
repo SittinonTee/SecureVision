@@ -1,7 +1,8 @@
 # Virtual environments
 venv/
 .venv/
-model.pt
+more_training/
+
 # Python cache
 __pycache__/
 *.pyc
@@ -15,6 +16,8 @@ outputs/
 testtt/
 Train/
 dataset/
+test/
+.DS_Store/  
 
 # Model weights
 
