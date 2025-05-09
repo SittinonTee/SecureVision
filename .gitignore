@@ -3,21 +3,25 @@ venv/
 .venv/
 more_training/
 
-# Python cache
+# # macOS system files
+# .DS_Store
+
+# Python bytecode cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # Environment variables
 .env
 
-# Training output folders
+# Training output folders and datasets
 runs/
 outputs/
 testtt/
 Train/
 dataset/
 test/
-.DS_Store/  
 
 # Model weights
-
+model.pt
